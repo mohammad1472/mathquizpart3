@@ -1,0 +1,39 @@
+body
+{
+	background: red;
+    text-align: center;
+}
+
+	 #playe1_name_input, #player2_name_input
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+		text-align: center;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+	text-align: center;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+	background-color: white;
+	border-radius: 10px;
+	border-top: 10px solid #aa4465;
+	padding: 10px;
+	float: none;
+	text-align: left;
+}
